@@ -8,5 +8,7 @@ img {
   border-radius: 10px;
 }
 p {
-  font-color = red;
+  color: red;
+  
+  font-size: 25px;
 }
